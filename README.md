@@ -2,7 +2,7 @@
 ### My name is Leelai Hayslett! 
 - 🌱 I'm currently learning: Javascript, CSS, HTML, React.js, Node.js, SQL and more 
 - 👀 I aspire to become a UX/UI full stack Web-Developer
-- 💞️ I’m look foreward to collaborate on creative, challenging, and fun projects...
+- 💗 I’m look foreward to collaborate on creative, challenging, and fun projects...
 - ⚡ Fun fact: I'm currently a CAD design Engineer :)
 
 #### If you'd like to contact me:
